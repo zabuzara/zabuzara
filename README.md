@@ -39,3 +39,6 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
 </p>
+
+## Status
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zabuzara&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
