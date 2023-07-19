@@ -40,5 +40,3 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
 </p>
 
-## Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabuzara)](https://github.com/zabuzara)
