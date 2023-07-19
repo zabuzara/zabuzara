@@ -40,4 +40,4 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zabuzara&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zabuzara&theme=dark&hide_border=true)](https://github.com/zabuzara/Joystick)
