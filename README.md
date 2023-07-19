@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I develop very different applications in Java/PHP/JavaScript/MySQL/C/Bash that fulfill different tasks.
-My interest for the future lies in robotics and real-time interactions between machines.
+- I develop very different applications in Java/PHP/JavaScript/MySQL/C/Bash that fulfill different tasks.
+- My interest for the future lies in robotics and real-time interactions between machines.
 
 Here are some ideas to get you started:
 
