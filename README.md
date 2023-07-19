@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 -- [ChessAPI](https://github.com/zabuzara/Chess_API)
 -- [ChessBash](https://github.com/zabuzara/schach)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zabuzara)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
