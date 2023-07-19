@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 </p>
 
 ## Status
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zabuzara&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zabuzara&repo=Joystick)](https://github.com/anuraghazra/github-readme-stats)
